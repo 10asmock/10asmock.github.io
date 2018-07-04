@@ -80,9 +80,9 @@ p {
 	text-align:center;
 	display:inline-block;
 	color:#FFFFFF;
-  margin-top: 10px;
-  font-family: 'Megrim', serif;
-  text-shadow: 3px 6px 0 rgba(50, 50, 50, 0.1);
+  	margin-top: 10px;
+  	font-family: 'Megrim', serif;
+  	text-shadow: 3px 6px 0 rgba(50, 50, 50, 0.1);
 }
 
 .btn-holder {
@@ -274,6 +274,7 @@ figure.snip0069.hover figcaption:before {
 #aboutme .about {
   border:2px solid rgba(0, 0, 0, 0.2);
   justify-content: center;
+  margin: auto;
 }
 
 .about {
