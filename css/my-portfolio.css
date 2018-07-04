@@ -151,11 +151,9 @@ p {
 
 #aboutme {
     padding: 0 0 60px 0;
+    margin: auto;
 }
 
-#aboutme .row {
-  margin-left: 80px;
-}
 
 .section-title {
   margin-bottom: 50px;
@@ -274,7 +272,6 @@ figure.snip0069.hover figcaption:before {
 }
 
 #aboutme .about {
-  margin-left: 210px;
   border:2px solid rgba(0, 0, 0, 0.2);
 }
 
@@ -287,6 +284,7 @@ figure.snip0069.hover figcaption:before {
   padding: 20px;
   border-radius: 6px;
 }
+
 .aboutme-me {
   float: left;
   position: relative;
