@@ -171,7 +171,7 @@ p {
   font-style: italic;
   text-align: center;
   color: #222;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 figure.snip0069 {
@@ -275,6 +275,7 @@ figure.snip0069.hover figcaption:before {
   border:2px solid rgba(0, 0, 0, 0.2);
   justify-content: center;
   margin: auto;
+  margin-top: 50px;
 }
 
 .about {
